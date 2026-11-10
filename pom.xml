@@ -26,7 +26,7 @@
 		<sonar.password>Vision@203031</sonar.password> 
 		-->
 
-		<sonar.login>squ_ada6dcb0211201d94e2643a55ad53bbd93eba3f</sonar.login>
+		<sonar.login>squ_ada6dcb0211201d94e2643a55ad53bbd93eba3f7</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
