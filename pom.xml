@@ -101,7 +101,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>BBK TechInfo Releases Nexus Repository</name>
-	      <url>http://100.53.210.106:8081/repository/jio-snapshot/</url>
+	      <url>http://54.83.183.126:8081/repository/jio-snapshot/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
